@@ -1,0 +1,3 @@
+<resources>
+    <style name="Theme.FieldTrack" parent="Theme.MaterialComponents.DayNight.NoActionBar" />
+</resources>
